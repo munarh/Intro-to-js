@@ -1,2 +1,2 @@
 # Intro-to-js
-https://munarh.github.io/Intro-to-js/
+Github page link: https://munarh.github.io/Intro-to-js/
